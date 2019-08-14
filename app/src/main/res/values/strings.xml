@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NavigationComponentExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data">Data</string>
+    <string name="food">Food</string>
+    <string name="_300">$300</string>
+    <string name="_200">$200</string>
+    <string name="candles">Candles</string>
+    <string name="_3600">$3600</string>
+    <string name="_150">$150</string>
+    <string name="utility">Utility</string>
+    <string name="rent">Rent</string>
+</resources>
